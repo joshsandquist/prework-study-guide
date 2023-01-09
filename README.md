@@ -2,9 +2,9 @@
 
 ## Description
 
-- This webpage as designed to give an imcoming bootvamp student a basic study guide for web develpoment essentials.
+- This webpage as designed to give an incoming bootcamp student a basic study guide for web development essentials.
 - I built this porject to hone in basic web dev skills while also creating a useful study guide.
-- This gives the student experience in basic concepts like HTML, CSS, Git, and JavaScript and then allows them to look back and study what they did.
+- This gives the me experience in basic concepts like HTML, CSS, Git, and JavaScript and then allows me to look back and study what I have learned.
 - I learned basic HTML, CSS, Git and the command line, as well as basic Javascript syntax.
 
 
